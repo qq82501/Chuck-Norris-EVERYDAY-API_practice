@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/css/main.fe907831.css",
-    "main.js": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/js/main.5a2e8ba0.js",
-    "static/js/787.30b0bdb4.chunk.js": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/js/787.30b0bdb4.chunk.js",
-    "static/media/PatchedBlack.otf": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/media/PatchedBlack.b7bbfb794a1b907490a2.otf",
-    "static/media/Nickname.otf": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/media/Nickname.ea69e742f798fc6c9329.otf",
-    "static/media/RondalRegular.otf": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/media/RondalRegular.6c4d677a77c17df56a5b.otf",
-    "index.html": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/index.html",
-    "main.fe907831.css.map": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/css/main.fe907831.css.map",
-    "main.5a2e8ba0.js.map": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/js/main.5a2e8ba0.js.map",
-    "787.30b0bdb4.chunk.js.map": "/qq82501/Chuck-Norris-EVERYDAY-API_practice/static/js/787.30b0bdb4.chunk.js.map"
+    "main.css": "/Chuck-Norris-EVERYDAY-API_practice/static/css/main.f59f0e4e.css",
+    "main.js": "/Chuck-Norris-EVERYDAY-API_practice/static/js/main.4db3b4ad.js",
+    "static/js/787.30b0bdb4.chunk.js": "/Chuck-Norris-EVERYDAY-API_practice/static/js/787.30b0bdb4.chunk.js",
+    "static/media/PatchedBlack.otf": "/Chuck-Norris-EVERYDAY-API_practice/static/media/PatchedBlack.b7bbfb794a1b907490a2.otf",
+    "static/media/Nickname.otf": "/Chuck-Norris-EVERYDAY-API_practice/static/media/Nickname.ea69e742f798fc6c9329.otf",
+    "static/media/RondalRegular.otf": "/Chuck-Norris-EVERYDAY-API_practice/static/media/RondalRegular.6c4d677a77c17df56a5b.otf",
+    "index.html": "/Chuck-Norris-EVERYDAY-API_practice/index.html",
+    "main.f59f0e4e.css.map": "/Chuck-Norris-EVERYDAY-API_practice/static/css/main.f59f0e4e.css.map",
+    "main.4db3b4ad.js.map": "/Chuck-Norris-EVERYDAY-API_practice/static/js/main.4db3b4ad.js.map",
+    "787.30b0bdb4.chunk.js.map": "/Chuck-Norris-EVERYDAY-API_practice/static/js/787.30b0bdb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe907831.css",
-    "static/js/main.5a2e8ba0.js"
+    "static/css/main.f59f0e4e.css",
+    "static/js/main.4db3b4ad.js"
   ]
 }
